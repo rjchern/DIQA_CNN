@@ -1,4 +1,4 @@
-# CNNDIQA
+# DIQA_CNN
 PyTorch 0.4.1 implementation of the following paper:
 [Le Kang, et al. "A DEEP LEARNING APPROACH TO DOCUMENT IMAGE QUALITY ASSESSMENT." 2014 ICIP.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.648.7747&rep=rep1&type=pdf)
 
