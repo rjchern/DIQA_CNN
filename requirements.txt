@@ -1,0 +1,4 @@
+torch==0.4.1
+torchvision==0.2.1
+Pytorch ignite(Please run 'pip install pytorch-ignite' or 'conda install ignite -c pytorch') 
+More detail about ignite you can see https://github.com/pytorch/ignite

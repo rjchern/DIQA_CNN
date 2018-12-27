@@ -1,0 +1,11 @@
+test_during_training: True 
+train_ratio: 0.6
+val_ratio: 0.2  
+test_ratio: 0.2  
+
+SOC:
+  root: /media/crj/Earth/Dataset/DIQA_Dataset/SOC/Images
+  gt_file_path: ./data/gt_files/SOC_gt.xlsx
+  IQA_results_path: ./results/
+
+
